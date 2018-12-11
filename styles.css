@@ -1,0 +1,16 @@
+.heading{
+    background:blue;
+    display:flex;
+    
+}
+.large{
+    background:purple;
+    display:flex;
+}
+.picture{
+    background:pink;
+    display:flex;
+}
+.lilbaby{
+    width:400px;
+}
